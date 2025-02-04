@@ -1,0 +1,15 @@
+pip==23.2
+setuptools==68.0.0
+wheel==0.40.0
+numpy
+pandas
+matplotlib
+scikit-learn
+tensorflow
+keras
+networkx
+tqdm
+nltk
+joblib
+stellargraph
+chardet
